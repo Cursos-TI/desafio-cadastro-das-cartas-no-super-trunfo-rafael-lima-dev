@@ -80,7 +80,7 @@ int main() {
     printf("Super Poder: %.2f\n", super_poder1);
 
     printf("\n=== CARTA 2 ===\n");
-    printf("Estado: %s\n", estado2);
+    printf("Estado: %s\n", estado2);    
     printf("Código: %s\n", codigo2);
     printf("Cidade: %s\n", cidade2);
     printf("População: %lu\n", populacao2);
